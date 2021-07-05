@@ -1,2 +1,1 @@
-
-free -m
+HI hello welcome to devops
